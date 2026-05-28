@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "shippingencrypt",
+        "uuid": 35354136,
+        "checksum": "cc5l1q"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
